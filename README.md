@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Marina 💻, and I am developing desktop and web applications using Java
+I'm Marina 💻, a self-taught passionate BackEnd developer.
 
 #### Skills:
 Java / Spring Framework / SQL/NoSQL / API development
