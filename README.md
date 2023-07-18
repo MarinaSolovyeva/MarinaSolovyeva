@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Marina 💻, a self-taught passionate BackEnd developer.
+I'm Marina 💻, a self-taught passionate Java developer.
 
 #### Skills:
 Java / Spring Framework / SQL/NoSQL / API development
