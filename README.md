@@ -24,6 +24,15 @@ I'm Marina 💻, a self-taught passionate Java developer.
   <a href="https://swagger.io/">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40" height="40"/>
   </a>
+  <a href="https://ru.m.wikipedia.org/wiki/HTML">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/>
+  </a>
+  <a href="https://en.m.wikipedia.org/wiki/CSS">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScriptS">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50"/>
+  </a> 
 
 
 #### 📫 How to reach me:
