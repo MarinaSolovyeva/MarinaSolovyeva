@@ -18,9 +18,6 @@ I'm Marina 💻, a self-taught passionate Java developer.
   <a href="https://www.docker.com/">
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/180px-Docker_logo.svg.png" width="110" height="30"/>
   </a>
-  <a href="https://www.liquibase.com/">
-   <img src="https://www.liquibase.com/wp-content/themes/liquibase/assets/img/logo.svg" width="110" height="30"/>
-  </a>
   <a href="https://swagger.io/">
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="40" height="40"/>
   </a>
