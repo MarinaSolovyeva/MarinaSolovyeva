@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-I'm Marina 💻, a self-taught passionate Java developer. 29 years old, now in Montenegro.
-Middle Java Developer in RT-BZ. 
+I'm Marina 💻, Java developer in CheckRewards.
 
 #### 🖥 Hard skills:
   <a href="https://ru.wikipedia.org/wiki/Java">
