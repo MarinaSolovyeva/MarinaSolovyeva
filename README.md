@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Marina 💻, Java developer in CheckRewards.
+I'm Marina 💻, Java developer.
 
 #### 📫 How to reach me:
 
